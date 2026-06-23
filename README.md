@@ -15,3 +15,6 @@ SQL project to analyze online music store data
 ## Files
 - music_project.sql
 - music store data 
+
+## Database Schema
+<img width="710" height="574" alt="MusicDatabaseSchema" src="https://github.com/user-attachments/assets/098c7deb-553e-46ab-b198-43c7579e1613" />
